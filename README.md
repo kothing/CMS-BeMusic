@@ -1,5 +1,31 @@
 # CMS-BeMusic
 
+## Feature
+- Content Management
+- Automatically Import and Update Artists, Albums, Tracks, Channels
+- User Artists
+- Automation Functionality On/Off System
+- Follower System
+- Users can Setup Their Profile and Upload and Share Music
+- Multiple Homepages
+- Users can Comment, Repost, Like, Embed their Favorite Tracks and Albums
+- Appearance Editor
+- Pixel-perfect Professional Design
+- SEO Tags for all Pages
+- User and Artist Profiles Management
+- Light and Dark Theme
+- Editable Landing Page
+- Google analytics Integrated
+- Users can Add Songs, Albums and Artists
+- Playlists System
+- Fully-featured Player Including Shuffle, Repeat, Lyrics, Queue
+- Premium Subscription
+- Paste Ad Codes
+- Ad Slots in Admin Panel
+- Google Analytics
+- and more
+
+
 ## How to start
 
 **1. Clone From Github**
