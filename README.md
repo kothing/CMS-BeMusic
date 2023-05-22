@@ -5,13 +5,13 @@
 **1. Clone From Github**
 
 ```bash
-git clone https://github.com/kothing/CMS-stories.git
+git clone https://github.com/kothing/CMS-BeMusic.git
 ```
 
 **2. Go to that folder**
 
 ```bash
-cd CMS-stories
+cd CMS-BeMusic
 ```
 
 **3. Required Configuration**
@@ -36,7 +36,7 @@ Create a .env file by cloning .env.example file
 **6. Create a Database named**
 
 ```bash
-stories
+your_database
 ```
 
 **7. Run Migration & Seed**
