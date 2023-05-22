@@ -1,5 +1,5 @@
 # CMS-BeMusic
- Music Streaming Engine PHP Script Free Download. BeMusic is a Multi-purpose Music Sharing and Streaming Platform. It can be used to Create Many Different Types of Music Related sites, Including Sites Similar to Soundcloud, Mixcloud, Spotify.
+BeMusic is a Multi-purpose Music Sharing and Streaming Platform. It can be used to Create Many Different Types of Music Related sites, Including Sites Similar to Soundcloud, Mixcloud, Spotify.
  
 
 ## Feature
